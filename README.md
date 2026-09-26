@@ -1,2 +1,14 @@
-# AdhkarTemplate__1_
-Flutter project created by KLENCOD IDE
+# قالب رفيق الأذكار
+
+قالب Flutter حديث لتطبيق أذكار متكامل بواجهة عربية هادئة ووظائف محلية جاهزة للتوسعة.
+
+## المزايا
+- تصنيفات أذكار الصباح والمساء والنوم وبعد الصلاة.
+- عداد تكرار مستقل لكل ذكر مع شريط تقدم.
+- المفضلة والبحث والتصفية.
+- حفظ التقدم محليًا عبر SharedPreferences.
+- الوضع الداكن.
+- بنية Android حديثة مطابقة للمرجع.
+
+## الإصدارات
+Flutter 3.47.2، Java 17، Gradle 8.14، Android Gradle Plugin 8.11.1، Kotlin 2.2.20، compileSdk وtargetSdk 36.
